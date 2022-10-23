@@ -10,6 +10,7 @@ Please find my academic activities through the following links:
 - [Twitter](https://twitter.com/PengLiangzu)
 - [DBLP](https://dblp.org/pid/228/7974.html)
 
+A copy of my CV is available [here](http://www.liangzu.org/cv.pdf).
 
 
 <!---
