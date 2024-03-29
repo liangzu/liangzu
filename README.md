@@ -1,6 +1,8 @@
 My name is Liangzu Peng. 
 
-I am a researcher interested in mathematics and algorithms for data science.
+I am a researcher interested in optimization, machine learning, and computer vision.
+
+I am currently focusing on continual learning.
 
 Please find my academic activities through the following links:
 
